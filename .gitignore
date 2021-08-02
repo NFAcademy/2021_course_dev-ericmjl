@@ -147,3 +147,4 @@ cython_debug/
 # Custom stuff
 .DS_Store
 *.ipynb_checkpoints/*
+.virtual_documents/
