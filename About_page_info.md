@@ -1,6 +1,6 @@
 # About page for your course
 
-Each course has an About page on the platform, and we need to fill specific information in a template. 
+Each course has an About page on the platform, and we need to fill specific information in a template.
 Please provide the following:
 
 1. Title
